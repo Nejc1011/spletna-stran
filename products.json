@@ -1,0 +1,58 @@
+
+[
+    {
+        "id": 1,
+        "name":"Računalnik Beta",
+        "price": 2000,
+        "image": "slike/pc1.png"
+    },
+    {
+        "id": 2,
+        "name":"Računalnik ultra",
+        "price": 2200,
+        "image": "slike/pc2.png"
+    },
+    {
+        "id": 3,
+        "name":"stol",
+        "price": 190,
+        "image": "slike/chair1.png"
+    },
+    {
+        "id": 4,
+        "name":"stol 2",
+        "price": 120,
+        "image": "slike/chair2.png"
+    },
+    {
+        "id": 5,
+        "name":"slušalke",
+        "price": 250,
+        "image": "slike/headseat.png"
+    },
+    {
+        "id": 6,
+        "name":"tipkovnica",
+        "price": 200,
+        "image": "slike/keyboard.png"
+    },
+    {
+        "id": 7,
+        "name":"miška",
+        "price": 150,
+        "image": "slike/mouse.png"
+    },
+    {
+        "id": 8,
+        "name":"podloga",
+        "price": 100,
+        "image": "slike/mousepad.png"
+    },
+    {
+        "id": 9,
+        "name":"monitor",
+        "price": 350,
+        "image": "slike/monitor.png"
+    }
+
+]
